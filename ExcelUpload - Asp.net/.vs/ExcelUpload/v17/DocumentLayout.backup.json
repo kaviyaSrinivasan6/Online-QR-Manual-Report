@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\dataaccesslayer\\uploadfiledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\dataaccesslayer\\uploadfiledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\commonlayer\\model\\uploadexcelfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\commonlayer\\model\\uploadexcelfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\dataaccesslayer\\iuploadfiledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\dataaccesslayer\\iuploadfiledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\commonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\commonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|c:\\users\\vishwa\\source\\repos\\excelupload\\excelupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A26C77C-47D4-4656-AB81-C3FF71ED17C1}|ExcelUpload\\ExcelUpload.csproj|solutionrelative:excelupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\Program.cs",
+              "RelativeToolTip": "ExcelUpload\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:25:15.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadFileDL.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\DataAccessLayer\\UploadFileDL.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\DataAccessLayer\\UploadFileDL.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\DataAccessLayer\\UploadFileDL.cs",
+              "RelativeToolTip": "ExcelUpload\\DataAccessLayer\\UploadFileDL.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAMoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:02:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\CommonLayer\\Model\\ReadRecord.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\CommonLayer\\Model\\ReadRecord.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\CommonLayer\\Model\\ReadRecord.cs",
+              "RelativeToolTip": "ExcelUpload\\CommonLayer\\Model\\ReadRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:32:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUploadFileDL.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\DataAccessLayer\\IUploadFileDL.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\DataAccessLayer\\IUploadFileDL.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\DataAccessLayer\\IUploadFileDL.cs",
+              "RelativeToolTip": "ExcelUpload\\DataAccessLayer\\IUploadFileDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:38:38.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExcelUpload\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\appsettings.Development.json",
+              "RelativeToolTip": "ExcelUpload\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T09:30:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadExcelFile.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\CommonLayer\\Model\\UploadExcelFile.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\CommonLayer\\Model\\UploadExcelFile.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\CommonLayer\\Model\\UploadExcelFile.cs",
+              "RelativeToolTip": "ExcelUpload\\CommonLayer\\Model\\UploadExcelFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:07:19.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\Controllers\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "ExcelUpload\\Controllers\\UploadFileController.cs",
+              "ToolTip": "C:\\Users\\Vishwa\\source\\repos\\ExcelUpload\\ExcelUpload\\Controllers\\UploadFileController.cs",
+              "RelativeToolTip": "ExcelUpload\\Controllers\\UploadFileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:54:36.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
